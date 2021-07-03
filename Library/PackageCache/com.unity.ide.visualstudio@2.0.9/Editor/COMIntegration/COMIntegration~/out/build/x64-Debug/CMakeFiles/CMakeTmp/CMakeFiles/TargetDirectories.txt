@@ -1,3 +1,0 @@
-D:/Studying/Projects of language/OurUnityProject/Library/PackageCache/com.unity.ide.visualstudio@2.0.9/Editor/COMIntegration/COMIntegration~/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_4df7c.dir
-D:/Studying/Projects of language/OurUnityProject/Library/PackageCache/com.unity.ide.visualstudio@2.0.9/Editor/COMIntegration/COMIntegration~/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-D:/Studying/Projects of language/OurUnityProject/Library/PackageCache/com.unity.ide.visualstudio@2.0.9/Editor/COMIntegration/COMIntegration~/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
