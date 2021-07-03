@@ -59,3 +59,4 @@ Assets/AddressableAssetsData/*/*.bin*
 # Temporary auto-generated Android Assets
 Assets/StreamingAssets/aa.meta
 Assets/StreamingAssets/aa/*
+Assets/Scenes/out*
