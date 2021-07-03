@@ -287,9 +287,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 511830610}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06ed9b007f5f8014ba1c8429214d22c3, type: 3}
+  m_Script: {fileID: 11500000, guid: c99193d6aeab4cc59e01ff72b346f8ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  groundCheckTransform: {fileID: 0}
 --- !u!136 &511830612
 CapsuleCollider:
   m_ObjectHideFlags: 0
