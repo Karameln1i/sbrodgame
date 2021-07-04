@@ -19,20 +19,19 @@ public class Move : MonoBehaviour
     private void Awake()
     {
         _input = new Input();
-        // Что это за штука?
-        _input.Player.Jump.performed += ctx => Jump();
+        _input.Player.Jump.performed += ctx => Jump();//здесь мы подписываем событие к методу который отвечает за прыжок
     }
 
-    // Вань, объясни нахуя это надо плз
+    //вызывается при включении компонента
     private void OnEnable()
     {
-        _input.Enable();
+        _input.Enable();// включаем нашу систему ввода
     }
 
-    // Это типа ты включаешь-выключаешь контроллер инпута или что?
+    //вызывается при выключении компонента
     private void OnDisable()
     {
-        _input.Disable();
+        _input.Disable(); // выключаем нашу систему ввода
     }
     // Метод Start вызывается один раз - когда скрипт инициализирован
     private void Start()
