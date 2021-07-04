@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerTreaker : MonoBehaviour
+public class PlayerTracker : MonoBehaviour
 {
     [SerializeField] private Player _player;
     [SerializeField] private float xOffset;
@@ -12,6 +12,6 @@ public class PlayerTreaker : MonoBehaviour
 
     private void Update()
     {
-        transform.position=new Vector3(_player.transform.position.x,_player.transform.position.y+yOffset,_player.transform.position.z+zOffset);
+        transform.position = new Vector3(_player.transform.position.x,_player.transform.position.y+yOffset,_player.transform.position.z+zOffset);
     }
 }
